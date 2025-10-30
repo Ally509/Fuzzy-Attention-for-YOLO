@@ -16,8 +16,8 @@ Download the pre-trained model weights trained on four datasets:
 
 | Dataset | weights |
 |---------|---------|
-| LUNA16 | [LUNA16.pt](weights/LUNA16.pt) |
-| Ultrasound | [Ultrasound.pt](weights/Ultrasound.pt) |
-| NEU-DET | [NEU-DET.pt](weights/NEU-DET.pt) |
-| UPRC2018 | [UPRC2018.pt](weights/UPRC2018.pt) |
+| LUNA16 | [LUNA16.pt](LUNA16.pt) |
+| Ultrasound | [Ultrasound.pt](Ultrasound.pt) |
+| NEU-DET | [NEU-DET.pt](NEU-DET.pt) |
+| UPRC2018 | [UPRC2018.pt](UPRC2018.pt) |
 
